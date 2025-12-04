@@ -11,7 +11,7 @@ spec:
   name: grafana-operator
   source: community-operators
   sourceNamespace: openshift-marketplace
-  startingCSV: grafana-operator.v5.20.0
+  startingCSV: grafana-operator.v5.6.3
 ---
 apiVersion: operators.coreos.com/v1
 kind: OperatorGroup
